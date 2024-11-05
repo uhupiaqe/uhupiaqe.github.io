@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uhupiaqe.github.io/Git/sitemap_index.txt
+Sitemap: https://uhupiaqe.github.io/YAK/sitemap_index.txt
+Sitemap: https://uhupiaqe.github.io/acT/sitemap_index.txt
+Sitemap: https://uhupiaqe.github.io/lqP/sitemap_index.txt
